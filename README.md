@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm GHAG DEEP PRAVIN</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack (MERN) developer from India</h3>
 
 <p align="left"> <img src="githubprofile.jpg" alt="ghagdeeppravin" /> </p>
 
