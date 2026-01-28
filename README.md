@@ -1,22 +1,93 @@
-<h1 align="center">Hi 👋, I'm GHAG DEEP PRAVIN</h1>
-<h3 align="center">A passionate Full Stack (MERN) developer from India</h3>
-
-<p align="left"> <img src="githubprofile.jpg" alt="ghagdeeppravin" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghagdeeppravin" alt="ghagdeeppravin" /></a> </p>
-
-- 🔭 I’m currently working on **MONGODB**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ghag deep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghag deep" height="30" width="40" /></a>
+<!-- ===================== HEADER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&text=GHAG%20DEEP%20PRAVIN&fontSize=40&fontAlignY=35&animation=fadeIn"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+MERN+Developer;Backend-Focused+Web+Engineer;React+%7C+Node+%7C+MongoDB;Clean+Code+%7C+Scalable+APIs+%7C+Performance"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghagdeeppravin&show_icons=true&locale=en&layout=compact" alt="ghagdeeppravin" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghagdeeppravin&show_icons=true&locale=en" alt="ghagdeeppravin" /></p>
+<!-- ===================== ABOUT ===================== -->
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghagdeeppravin&" alt="ghagdeeppravin" /></p>
+<table>
+<tr>
+<td width="60%">
+
+- 💻 Full Stack **MERN Developer**
+- 🌱 Currently deep-diving into **MongoDB & Backend Architecture**
+- ⚙️ Love building **REST APIs & Auth systems**
+- 🚀 Focused on **clean code, scalability & performance**
+- 🎯 Goal: Work on **real-world production systems**
+
+</td>
+<td width="40%" align="center">
+
+<img src="profileImage.png" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ===================== TROPHIES ===================== -->
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ghagdeeppravin&theme=onedark&row=1&column=7&margin-w=15"/>
+</p>
+
+---
+
+<!-- ===================== CONNECT ===================== -->
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ghag-deep-2b013b348/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:deepghag48@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,postman&theme=dark"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+</p>
+
+---
+
+<!-- ===================== STATS ===================== -->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ghagdeeppravin&show_icons=true&theme=tokyonight&rank_icon=github" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghagdeeppravin&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghagdeeppravin&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=footer"/>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting — feel free to explore my repositories!
+</p>
