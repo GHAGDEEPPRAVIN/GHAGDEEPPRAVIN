@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+MERN+Developer;Backend-Focused+Web+Engineer;React+%7C+Node+%7C+MongoDB;Clean+Code+%7C+Scalable+APIs+%7C+Performance"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+MERN+Developer;Backend-Focused+Web+Developer;React+%7C+Node+%7C+Express+%7C+MongoDB;Clean+Code+%7C+Scalable+APIs+%7C+Performance"/>
 </p>
 
 ---
